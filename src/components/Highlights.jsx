@@ -16,12 +16,12 @@ const Highlights = () => {
               title="Easy and Quick"
               para="Get access to the book you purchased online instantly."
             />
-             <Highlight
+            <Highlight
               icon={<FontAwesomeIcon icon="book-open" />}
               title="10,000+ Books"
               para="Library has books in all your favourite categories."
             />
-             <Highlight
+            <Highlight
               icon={<FontAwesomeIcon icon="tags" />}
               title="Affordable"
               para="Get your hands on popular boojs for as little as £10."
